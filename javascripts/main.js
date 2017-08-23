@@ -17,5 +17,3 @@ jupiter.outputTo($("#JUPITER"));
 saturn.outputTo($("#SATURN"));
 uranus.outputTo($("#URANUS"));
 neptune.outputTo($("#NEPTUNE"));
-// venus.hiPlanet();
-// earth.hiPlanet();
